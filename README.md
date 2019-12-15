@@ -2,6 +2,10 @@
 
 <!DOCTYPE html>
 <html>
+    <head>
+        <meta charset="utf-8">
+        <title>Carolyn's Piano Journey</title>
+    </head>
     <style>
         h1 {
             color:white;
@@ -15,10 +19,6 @@
             color:blue;
         }
     </style>
-    <head>
-        <meta charset="utf-8">
-        <title>Carolyn's Piano Journey</title>
-    </head>
     <body>
     <h1>Carolyn's Piano Journey</h1>
     <h2>About</h2>
