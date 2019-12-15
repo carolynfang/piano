@@ -3,6 +3,7 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <meta name="google-site-verification" content="-NqBDGKf7c0gwgGDIQk5uve4j_WxaoUtceZmIToagvI" />
         <meta charset="utf-8">
         <title>Carolyn's Piano Journey</title>
     </head>
