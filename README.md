@@ -2,18 +2,6 @@
 
 <!DOCTYPE html>
 <html>
-    # Group 1
-    User agent: Googlebot
-    Disallow: /nogooglebot/
-    # Group 2
-    User-agent:*
-    Allow: /
-    Sitemap: http://www.example.com/sitemap.xml
-    <head>
-        <meta charset="utf-8">
-        <title>Carolyn's Piano Journey</title>
-    </head>
-    <body>
     <style>
         h1 {
             color:white;
@@ -27,6 +15,11 @@
             color:blue;
         }
     </style>
+    <head>
+        <meta charset="utf-8">
+        <title>Carolyn's Piano Journey</title>
+    </head>
+    <body>
     <h1>Carolyn's Piano Journey</h1>
     <h2>About</h2>
     <img src="www.publicdomainpictures.net/en/view-image.php?image=228259&picture=piano-keyboard-cartoon-effect" alt="piano keyboard with black and white keys">
