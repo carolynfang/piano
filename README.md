@@ -18,6 +18,13 @@
             color:white;
             background-color:black;
         }
+        h2 {
+            color:rgb(59, 51, 59);
+            background-color:rgb(189, 176, 189);
+        }
+        h3 {
+            color:blue;
+        }
     </style>
     <h1>Carolyn's Piano Journey</h1>
     <h2>About</h2>
