@@ -2,6 +2,12 @@
 
 <!DOCTYPE html>
 <html>
+    # Group 1
+    User agent: Googlebot
+    Disallow: /nogooglebot/
+    # Group 2
+    User-agent:*
+    Allow: /
     <head>
         <meta charset="utf-8">
         <title>Carolyn's Piano Journey</title>
