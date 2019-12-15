@@ -8,6 +8,7 @@
     # Group 2
     User-agent:*
     Allow: /
+    Sitemap: http://www.example.com/sitemap.xml
     <head>
         <meta charset="utf-8">
         <title>Carolyn's Piano Journey</title>
