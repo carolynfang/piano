@@ -24,7 +24,7 @@
     <h1>Carolyn's Piano Journey</h1>
     <h2>About</h2>
     <img src="www.publicdomainpictures.net/en/view-image.php?image=228259&picture=piano-keyboard-cartoon-effect" alt="piano keyboard with black and white keys">
-    <p>Hello there! My name is Carolyn. One of my main major passions, according to this website's title, is piano. I have been playing piano since I was in grade 1. Right now, I am in level 7 (there are 10 levels). I am definitely not the most advanced, but I hope this website can help you with learning :)
+    <p>Hello there! My name is Carolyn. One of my main major passions, according to this website's title, is piano. I have been playing piano since I was in grade 1. Right now, I am in level 7 (there are 10 levels). I am definitely not the most advanced, but I hope this website can help you with learning :) Listed below are a few Youtube channels and sheet music sites I personally like.
     <h2>Resources</h2>
     <img src="https://www.kasandbox.org/programming-images/avatars/aqualine-sapling.png" alt="little blue monster">
     <h3>Youtube channels</h3>
