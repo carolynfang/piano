@@ -4,9 +4,6 @@
 <html>
     <head>
         <meta name="google-site-verification" content="-NqBDGKf7c0gwgGDIQk5uve4j_WxaoUtceZmIToagvI" />
-        <meta name="robots" content="noindex" />
-        User agent: *
-        Disallow: /
         <meta charset="utf-8">
         <meta name="about" content="history of my piano playing">
         <meta name="youtube channels" content="Piano Tutorials Easy, Marioverehrer, Rousseau">
